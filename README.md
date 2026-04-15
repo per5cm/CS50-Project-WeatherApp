@@ -2,7 +2,7 @@
 
 **Description:**
 
-    This project is a challenging journey of creating a weather app. I love to cycle, so this app is perfect for fellow cycling enthusiasts. As a complete beginner in software development, choosing a project was the hardest part. I have no prior experience, the steps and tools required and needed to take seemed confusing, and I didn't know where to begin. As a cyclist, I check weather conditions and information constantly, so it gave me the idea that I could make a weather app. I had a little knowledge in HTML + CSS and had decided to combine a Python backend and HTML for the front-end use.
+This project is a challenging journey of creating a weather app. I love to cycle, so this app is perfect for fellow cycling enthusiasts. As a complete beginner in software development, choosing a project was the hardest part. I have no prior experience, the steps and tools required and needed to take seemed confusing, and I didn't know where to begin. As a cyclist, I check weather conditions and information constantly, so it gave me the idea that I could make a weather app. I had a little knowledge in HTML + CSS and had decided to combine a Python backend and HTML for the front-end use.
 
 **For this project, libraries and other tools I will use:**
 
