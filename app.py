@@ -8,7 +8,7 @@ def index():
     data = None
     city = ""
     state = ""
-    country = "Germany"
+    country = ""
     
     if request.method == "POST":  
         city = request.form.get("cityName").strip()
