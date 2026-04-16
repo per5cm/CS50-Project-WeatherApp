@@ -10,6 +10,7 @@ class WeatherData:
     temperature: int
 
 def load_api_key():
+    
     api_key = os.getenv("API_KEY")
     if not api_key:
         raise ValueError("API_KEY not found.")
